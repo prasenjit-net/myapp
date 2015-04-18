@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "myapp",
+    "packageName": "net.prasenjit.myapp",
+    "packageFolder": "net/prasenjit/myapp",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "d1147e1dc002a6f5bf4ecd90337aba32cc225a11"
+  }
+}
